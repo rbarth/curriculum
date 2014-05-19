@@ -9,3 +9,8 @@
 - Javascript
 - Ruby/Rails
 - Databases
+
+## Tools
+
+- Git
+- Atom
